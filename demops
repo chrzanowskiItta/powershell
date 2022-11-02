@@ -1,0 +1,4 @@
+write-host "hello"
+get-command
+gps
+gsv
